@@ -39,7 +39,27 @@ header nav ul{
 }
 .hero{
     padding-bottom: 100px;
+    position: relative;
 }
 .hero--info{
-    width: 400px;
+    width: 400px;    
+}
+.hero--info h1{
+    padding-bottom: 50px;
+}
+
+.hero--info .btn{
+    background: #FF6200;
+    width: 250px;
+    font-weight: 600;
+    color: #fff;
+    font-size: 18px;
+    padding: 15px 30px;
+    border-radius: 50px;
+}
+.hero img{
+    position: absolute;
+    top: -150px;
+    right: -120px;
+    scale: 70%;
 }
