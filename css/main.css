@@ -84,6 +84,8 @@ header nav ul li a:hover{
 .app--info h3{
     width: 500px;
     line-height: 150%;
+    padding-bottom: 50px;
+    font-weight: 300;
 }
 .app--info h2{
     padding-bottom: 30px;
